@@ -3,6 +3,9 @@ section{
     height: fit-content;
 padding:0px;
 }
+.skillanime{
+    display: none;
+}
 
 .skillLeft{
     display: flex;
@@ -19,6 +22,7 @@ padding:0px;
 }
 
 #skills{
+    margin-top: 0;
  background-color:black;
   
         overflow:hidden;

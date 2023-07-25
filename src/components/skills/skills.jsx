@@ -56,7 +56,7 @@ rendererSettings:{
     return<section id="skills"  style={{
    width: (widthinc?"0":"100vw"),
    }}>
-     <div className="head">
+     <div className="head" style={{marginTop:"5vh"}}>
   <h1 className="heading">Skills</h1>
 <div className="underline"
 style={{

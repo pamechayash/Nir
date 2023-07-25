@@ -5,18 +5,25 @@ if(props.name=="normal Download")
     return <button type="button"  style={
      {
        backgroundColor:"transparent",
-       color:"#4db5ff"
+       border:"1px solid black",
+       color:"#4db5ff",
+       color:"black"
      }
-    } className="Dow" ><a href={CV} download className="Dow">Download CV</a></button>
+    } className="Dow" ><a href={CV} download className="Dow" style={
+      {
+      
+        color:"black"
+      }
+     } >Download CV</a></button>
  
 else   if(props.name=="primary")
  {
   return <button type="button"  style={
     {
-      backgroundColor:"#4db5ff",
-      color:"black",
+      backgroundColor:"black",
+      color:"white",
     }
-   } className="Let" ><a href={props.hr} className="Let">{props.text}</a></button>
+   } className="Let" ><a href={props.hr} className="Let" style={{color:"white"}}>{props.text}</a></button>
  }
  else if(props.name=="normal")
  {

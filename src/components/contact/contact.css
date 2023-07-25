@@ -1,7 +1,9 @@
-
+#contact{
+      margin: 0px;
+}
 .contactCont{
 height:fit-content;
-width: 95vw;
+width: 100vw;
 padding: 10px;
 gap:10vh;
 display: flex;
@@ -10,7 +12,7 @@ align-items: center;
 
 margin: 0px auto;
 border-radius: 3%;
-    background-image: url(https://images.unsplash.com/photo-1545164027-0d5617cef5fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1750&q=80);
+    background-image: url(https://mcdn.wallpapersafari.com/medium/3/99/7cPhMl.jpg);
     
    /* filter: blur(0.2px); */
  

@@ -1,10 +1,11 @@
 import Lottie from 'react-lottie';
-import data1 from './chat.json'
-import data2 from './wheather.json'
+
+import data8 from './ml.json'
+import data2 from './weather.json'
 import data3 from './covid.json'
 import data4 from './keeper.json'
 import data6 from './bank.json'
-import data5 from './coming.json'
+
 import data7 from './tractorMoving.json'
 
 export default function GetAnimation(props){
@@ -12,7 +13,7 @@ let data="";
 console.log(props.type)
 if(props.type=="chat")
 { console.log("yesss");
-data=data1;
+data=data8;
 }
  if(props.type=="wheather")
 {
@@ -30,10 +31,7 @@ if(props.type=="keeper")
 {
     data=data6;
 }
-if(props.type=="center")
-{
-    data=data5;
-}
+
 if(props.type=="tractorMoving"){
     data=data7;
 }

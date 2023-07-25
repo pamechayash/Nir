@@ -41,22 +41,7 @@ else if(props.orientation==="right")
 
 </div>
 }
-else{
-
-  return <div id={props.id} className="projectcard" style={{alignContent:"right"}}>
-     
- 
-
-<div className='animation' 
-
-><GetAnimation type={props.anime}/>
-
-</div>
 
 
-</div>
-
-
-}
     
 }

@@ -1,5 +1,7 @@
 #testimonials{
     overflow: hidden;
+    background-color: black;
+    margin-top: 0;
 }
 .achieved{
     display: flex;

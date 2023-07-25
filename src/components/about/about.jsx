@@ -28,11 +28,11 @@ return <section id="about">
 <div className="bigcont">
 <div className="heading" >
 <small style={ {color: "rgba(255,255,255,0.4)"}}>Get To Know</small>    
-<h2 style={{color:"#4db5ff"}}>About Me</h2>
+<h2 style={{color:"#4db5ff",color:"white"}}>About Me</h2>
 
 </div>
 <div className="Subcont">
-<ImageCont/>
+
 
 <div className="contentSpace">
 <div className="cardSpace">

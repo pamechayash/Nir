@@ -10,8 +10,8 @@ const info=[
   git:"https://github.com/pamechayash/MachineLearningAlgorithm-PlayGroundTool-Makes-ML-Easy"
 },
 {
-  id:"even",
-  orientation:"right",
+  id:"odd",
+  orientation:"left",
   anime:"tractorMoving",
   title:"AGROVISION | [JWT, bcrypt]-Auth, Reactjs, Nodejs, MongoDB, Flask(basic), Machine Learning, Deep Learning",
   type:"Video",
@@ -31,8 +31,8 @@ git:"https://github.com/pamechayash/AGROvision-SmartFarmingSystem/tree/main"
 git:"https://github.com/pamechayash/ClimateApp"
 },
   {
-   id:"even",
-   orientation:"right",
+   id:"odd",
+   orientation:"left",
    anime:"bank",
    title:"BANK MARKETING RESPONSE PREDICT | MACHINE LEARNING | PYTHON",
 
@@ -52,8 +52,8 @@ git:"https://github.com/pamechayash/ClimateApp"
  
 },
   {
-   id:"even",
-   orientation:"right",
+   id:"odd",
+   orientation:"left",
    anime:"keeper",
    type:"Demo",
    video:"https://630938fa97190f11a7f6ec01--startling-platypus-74cf2b.netlify.app",

@@ -13,15 +13,26 @@
 
 
 #header{
-   
+   height: 100vh;
    text-align: center;
-    margin-top: 20vh;
+
+
     display: flex;
     overflow-y: hidden;
+    background-color: black;
+    background-image: url("https://img.freepik.com/free-photo/natural-green-leaves-with-blurred-background_23-2148282538.jpg?w=1800&t=st=1690261438~exp=1690262038~hmac=e7f80531a95ef35f24b10788e38d70c58f776da124da47cd0b2c4274e7467b63");
+  
+    background-repeat: no-repeat;
+    background-size: cover;
     flex-direction: column;
     align-items: center;
 }
-
+.grad{
+    height: 100vh;
+    padding-top: 20vh;
+    width: 100vw;
+    background: linear-gradient(to right bottom,rgba(255, 192, 203,0.7),rgba(0, 0, 0,0.3));
+}
 .btnspace{
 
     
@@ -60,7 +71,7 @@ button{
     width:95vw;
     display: flex;
     justify-content: space-between;
-  
+    
 }
 
 .maincontUp{
@@ -103,7 +114,7 @@ button{
 }
 .sidelinks{
    
-  margin-left: 0;
+  margin-left: 20px;
   color:var(--color-primary);
   margin-right: 0;
   

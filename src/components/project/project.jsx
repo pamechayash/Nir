@@ -27,7 +27,7 @@ export default function Project(){
     
 
 
-    return  <section id="project" style={{backgroundImage:"url("+img+")"}}>
+    return  <section id="project" style={{backgroundColor:"black"}}>
       <div className="head">
   <h1 className="heading">Projects</h1></div>
  

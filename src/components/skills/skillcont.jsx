@@ -33,7 +33,10 @@ alignItems:"center",
         height={100}
        width={100}/>
        </div>
-       <h3>{props.skillname}</h3>
+       <h3 style={{
+        padding:"20px"
+
+       }}>{props.skillname}</h3>
       
        </div>
      );

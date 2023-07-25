@@ -57,13 +57,14 @@ const iconStyle ={ height: 35,
     return (
      
 <header id="header" >
-<Pcomp/>
+<div className="grad">
 
 
 <h4 style={{color:"white",position:"relative"}}>Hello,i'm</h4>
 <Wobble>
 <h1 style={{margin:"10px",
-color:"#4db5ff"
+color:"#4db5ff",
+color:"black"
 }
 
 } >Yash Pamecha</h1>
@@ -106,7 +107,7 @@ color:"#4db5ff"
 
    </div>
 
-
+   </div>
 </header>
 
 
