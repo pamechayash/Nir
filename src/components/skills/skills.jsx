@@ -15,7 +15,7 @@ const [widthinc,setInc]=useState(false);
 
 function handleScroll(){
 setTrigger(window.pageYOffset);
-OffsetY<2200 ?setInc(true):setInc(false);
+OffsetY<2000 ?setInc(true):setInc(false);
 
 
 

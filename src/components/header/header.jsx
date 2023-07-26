@@ -64,13 +64,18 @@ const iconStyle ={ height: 35,
 <Wobble>
 <h1 style={{margin:"10px",
 color:"#4db5ff",
-color:"black"
+color:"black",
+fontWeight:"bolder !important" ,
+fontSize:"4rem",
 }
 
 } >Yash Pamecha</h1>
 
 
-<small style={ {color: "rgba(255,255,255,0.4)"}}>Full stack Web Developer | Machine Learning  <br/>proficient in Problem Solving</small>
+<small style={ {color: "rgba(255,255,255,0.8)",
+fontWeight:"bolder !important" ,
+fontSize:"1.3rem",
+}}>Full stack Web Developer | Machine Learning  <br/>proficient in Problem Solving</small>
 <div className="btnspace">
 <Button name="normal Download"
 
