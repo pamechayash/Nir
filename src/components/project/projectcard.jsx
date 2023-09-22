@@ -10,7 +10,7 @@ export default function ProjectCard(props){
 
 
     return<div id={props.id} className="projectcard">
-     <div className='animation'> <GetAnimation type={props.anime}/></div>
+
 <div className="define">
 <h3 className='projhead'>{props.title}<button className='projbtn'><a href={props.video} >{props.type}</a></button>
 <button className='projbtn'><a href={props.git} >CODE</a></button>
@@ -35,9 +35,7 @@ else if(props.orientation==="right")
  {props.content}
 </div>
 
-<div className='animation' 
 
-><GetAnimation type={props.anime}/></div>
 
 </div>
 }

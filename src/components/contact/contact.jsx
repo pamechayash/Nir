@@ -33,10 +33,10 @@ return  <section id="contact">
  <h1 style={{color:"white"}}>Contact</h1>
 <div className="contactMeans">
 <div className="email">
-<ContactBox icon={AiOutlineMail} type="Mail" link="mailto:yj69771@gmail.com" info="Yj69771@gmail.com"/>
+<ContactBox icon={AiOutlineMail} type="Mail" link="mailto:pniranjan18@gmail.com" info="pniranjan18@gmail.com"/>
 </div>
 <div className="whatsapp">
-<ContactBox icon={BsWhatsapp} type="Message" info="+91 7869265789" link="https://api.whatsapp.com/send?phone=7869265789"/>
+<ContactBox icon={BsWhatsapp} type="Message" info="+91 8349122392" link="https://api.whatsapp.com/send?phone=8349122392"/>
 </div>
 </div>
 <div className="contactForm" >

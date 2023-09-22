@@ -72,11 +72,9 @@ style={{
       <div className="skillLeft">
 <Askill skillname="C lang"/>
 <Askill skillname="C++ lang"/>
-<Askill skillname="Python"/>
 <Askill skillname="Oops"/>
-<Askill skillname="Flutter(basic)"/>
 
-<Askill skillname="MachineLearning"/>
+
 <Askill skillname="DSA"/>
 </div>
      <div className="skillcenter">
@@ -87,13 +85,9 @@ style={{
    </div>
    <div className="skillRight">
 <Askill skillname="javaScript"/>
-
-<Askill skillname="Node.js"/>
-<Askill skillname="Express.js"/>
 <Askill skillname="SQL"/>
 <Askill skillname="APIs"/>
-<Askill skillname="MongoDB"/>
-<Askill skillname="React.js"/>
+<Askill skillname="Flutter(basic)"/>
 </div>
    
      </div>

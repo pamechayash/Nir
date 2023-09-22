@@ -9,11 +9,11 @@
    justify-content: center;
   align-items: center;
     height: fit-content;
- gap:8vh;
+ gap:0;
 }
 
 .projectcard{
-    height:40vh;
+    height:30vh;
      display:flex;
   width: fit-content;
     
@@ -27,7 +27,8 @@
 
 .define{
   width:50vw;
-
+margin-top: 0 !important;
+margin-bottom: 0 !important;
     margin: auto;
    
 }

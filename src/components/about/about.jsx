@@ -37,8 +37,8 @@ return <section id="about">
 <div className="contentSpace">
 <div className="cardSpace">
 <Card name="Time invested" desc="2.5+ years of practice  in programming(Development + problem Solving) and have a good Experience in solving problems"/>
-<Card name="Skills" desc="Frontend + Backend + (DataScience, Machine Learning, FullStackWeb) "/>
-<Card name="Projects" desc="projects on Web Development , Flutter(Basic) , Machine Learning and Currently doing SQL for Future Projects"/>
+<Card name="Skills" desc="Android Development With Java and Kotlin + Problem Solving"/>
+<Card name="Projects" desc="projects on Android Development and Web Development ,Flutter(Basic),  and Currently doing SQL for Future Projects"/>
 
 </div>
 

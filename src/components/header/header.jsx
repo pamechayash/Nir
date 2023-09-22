@@ -69,13 +69,13 @@ fontWeight:"bolder !important" ,
 fontSize:"4rem",
 }
 
-} >Yash Pamecha</h1>
+} >Niranjan Patidar</h1>
 
 
 <small style={ {color: "rgba(255,255,255,0.8)",
 fontWeight:"bolder !important" ,
 fontSize:"1.3rem",
-}}>Full stack Web Developer | Machine Learning  <br/>proficient in Problem Solving</small>
+}}>Android Developer | Java | Kotlin <br/>proficient in Problem Solving</small>
 <div className="btnspace">
 <Button name="normal Download"
 
@@ -94,9 +94,9 @@ fontSize:"1.3rem",
 <div className={classN.sidelinks}>
     <div className={classN.list}>
     <Spin>
-        <SocialIcon url="https://github.com/pamechayash" network="github" style={iconStyle} className="icon" bgColor="#4db5ff"/>
-       <SocialIcon url="https://www.linkedin.com/in/yash-pamecha-a89232204/"  bgColor="#4db5ff" className="icon" style={iconStyle} />
-        <SocialIcon url="https://twitter.com"  bgColor="#4db5ff" className="icon" style={iconStyle} />
+        <SocialIcon url="https://github.com/Niranjan029" network="github" style={iconStyle} className="icon" bgColor="#4db5ff"/>
+       <SocialIcon url="https://www.linkedin.com/in/niranjan-patidar-695a47228/"  bgColor="#4db5ff" className="icon" style={iconStyle} />
+        {/* <SocialIcon url="https://twitter.com"  bgColor="#4db5ff" className="icon" style={iconStyle} /> */}
         </Spin>
         </div>
      
